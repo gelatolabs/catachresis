@@ -175,7 +175,7 @@ Glass Table (H)|ガラステーブル（横）
 Glass Table (H)|ガラステーブル（横）
 Glass Table (V)|ガラステーブル（縦）
 Refrigerator|冷蔵庫
-Bookshelf A|本棚A
+Shitty Door|本棚A
 Chest of Drawers A|タンスA
 Miscellaneous Item Shelf|雑貨棚
 Locker A|ロッカーA

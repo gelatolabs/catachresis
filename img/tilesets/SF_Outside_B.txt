@@ -117,7 +117,7 @@ Digital Signage A|電子看板A
 Digital Signage C|電子看板C
 Neon Shop Sign (CASINO)|ネオン看板（カジノ)
 Neon Shop Sign (CASINO)|ネオン看板（カジノ)
-Small Crane|小型クレーン
+Shitty Door|小型クレーン
 Poster|ポスター
 Signboard B|看板B
 Digital Signage B|電子看板B
