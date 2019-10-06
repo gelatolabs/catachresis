@@ -1,7 +1,7 @@
 # Catachresis
 Cyberpunk RPG about cats created for the Ludum Dare 72-hour game jam.
 
-# License
+## License
 Copyright (c) 2019 Gelato Labs
 
 Permission to use, copy, modify, and/or distribute this software for any
