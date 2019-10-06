@@ -1,0 +1,28 @@
+<block:-1,-1,10,10,offbot,center,Catachresis>
+\c[3]Catachresis
+A Game for Ludum Dare 45
+"Start with nothing"
+
+\c[1]The Gelato Labs team for LD45 is:
+Kyle "kfarwell" Farwell - Main Programmer, Map Design,
+Writer
+Matt "mtrose42" Rose - Programmer
+Phil "squid" St. Antoine - Writer
+Matthew "fireTwoOneNine" Petry - Programmer, Map Design
+DarkProds - Artist
+DICEBLOCK - Musician
+
+\c[1]Catachresis for LD45 is a condensed form of the
+\c[1]original Catachresis concept by 
+Kyle "kfarwell" Farwell
+Matthew "fireTwoOneNine" Petry
+
+\c[1]Game Engine
+RPG Maker MV
+
+\c[1]Additional Plugins by
+Galv
+
+\c[4]Thank you for playing <3
+
+</block>
