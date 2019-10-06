@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"Lita","characterIndex":0,"characterName":"Lita","classId":1,"equips":[0,0,0],"faceIndex":0,"faceName":"Lita","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lita","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":1,"characterName":"Nature","classId":2,"equips":[2,0,0],"faceIndex":1,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Neiko","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Lita","characterIndex":0,"characterName":"Lita","classId":1,"equips":[0,0,0],"faceIndex":0,"faceName":"Lita","traits":[{"code":22,"dataId":0,"value":0.7}],"initialLevel":1,"maxLevel":99,"name":"Lita","nickname":"","note":"","profile":"Knows she is better than you, doesn't know when to keep\nher mouth shut."},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"Nature","classId":2,"equips":[2,0,0],"faceIndex":1,"faceName":"Nature","traits":[{"code":22,"dataId":0,"value":0.9}],"initialLevel":1,"maxLevel":99,"name":"Neiko","nickname":"","note":"","profile":"Good cat, hopefully does not blow up at any time in the\nnear future."}
 ]
