@@ -8,5 +8,7 @@ null,
 {"id":6,"expanded":false,"name":"ANOMALOUSOUTSIDE2","order":6,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":7,"expanded":false,"name":"WAREHOUSE","order":7,"parentId":0,"scrollX":498,"scrollY":636.5},
 {"id":8,"expanded":false,"name":"ANOMALOUSOUTSIDE3","order":8,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":9,"expanded":false,"name":"ANOMALOUSINSIDE2","order":9,"parentId":0,"scrollX":832,"scrollY":640}
+{"id":9,"expanded":true,"name":"ANOMALOUSINSIDE2","order":9,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":10,"expanded":false,"name":"REGGIESSERVERS","order":10,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":11,"expanded":true,"name":"ANOMALOUSINSIDE3","order":11,"parentId":0,"scrollX":498,"scrollY":636.5}
 ]
