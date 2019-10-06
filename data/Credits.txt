@@ -6,11 +6,11 @@ A Game for Ludum Dare 45
 \c[1]The Gelato Labs team for LD45 is:
 Kyle "kfarwell" Farwell - Main Programmer, Map Design,
 Writer
-Matt "mtrose42" Rose - Programmer
-Phil "squid" St. Antoine - Writer
+Matt "mtrose42" Rose - Main Writer, Animator
 Matthew "fireTwoOneNine" Petry - Programmer, Map Design
 DarkProds - Artist
-DICEBLOCK - Musician
+DICEBlOCK - Musician
+Phil "Squid" St. Antoine - Writer
 
 \c[1]Catachresis for LD45 is a condensed form of the
 \c[1]original Catachresis concept by 
@@ -21,6 +21,7 @@ Matthew "fireTwoOneNine" Petry
 RPG Maker MV
 
 \c[1]Additional Plugins by
+Yanfly
 Galv
 
 \c[4]Thank you for playing <3
