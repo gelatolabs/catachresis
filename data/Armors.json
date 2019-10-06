@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"atypeId":0,"description":"Fashionable laptop designed by the legendary Marc Jobs.\nThe keyboard isn't very good, so hacking is difficult.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":265,"name":"Marcbook","note":"","params":[0,0,0,0,0,0,0,0],"price":2000},
-{"id":2,"atypeId":0,"description":"A standard voice module for cyborgs. Now you can speak!","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":4,"name":"Voicetron 3000","note":"","params":[0,0,0,0,0,0,0,0],"price":300},
-{"id":3,"atypeId":0,"description":"Standard legs for cyborgs. Now you can walk!","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":141,"name":"Legz V3","note":"","params":[0,0,0,0,0,0,0,0],"price":300},
-{"id":4,"atypeId":0,"description":"Turns cats into cyborgs.\nIncludes voucher for double XP in Cat of Duty.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":83,"name":"PITA Cat Cybernetics 1.0","note":"","params":[0,0,0,0,0,0,0,0],"price":300}
+{"id":1,"atypeId":1,"description":"Fashionable laptop designed by the legendary Marc Jobs. The keyboard isn't very good, so hacking is difficult.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":265,"name":"Marcbook","note":"","params":[0,0,0,0,10,0,0,0],"price":2000},
+{"id":2,"atypeId":1,"description":"A standard voice module for cyborgs. Now you can speak!","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":4,"name":"Voicetron 3000","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":3,"atypeId":1,"description":"Standard legs for cyborgs. Now you can walk!","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":141,"name":"Legz V3","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":4,"atypeId":1,"description":"Turns cats into cyborgs. Includes voucher for double XP in Cat of Duty.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"PITA Cyborg Cat Collar 1.0","note":"","params":[0,0,0,0,10,0,0,0],"price":300}
 ]

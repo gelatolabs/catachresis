@@ -1,12 +1,8 @@
 [
 null,
-{"id":1,"expanded":true,"name":"ALLEYRESCUE","order":2,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":2,"expanded":true,"name":"ALLEYJARF","order":1,"parentId":0,"scrollX":498,"scrollY":636.5},
-{"id":3,"expanded":false,"name":"ANOMALOUSOUTSIDE","order":3,"parentId":0,"scrollX":498,"scrollY":636.5},
-{"id":4,"expanded":false,"name":"ANOMALOUSINSIDE","order":4,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":5,"expanded":false,"name":"LITAPARTMENT","order":5,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":6,"expanded":false,"name":"ANOMALOUSOUTSIDE2","order":6,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":7,"expanded":false,"name":"WAREHOUSE","order":7,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":8,"expanded":false,"name":"ANOMALOUSOUTSIDE3","order":8,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":9,"expanded":false,"name":"ANOMALOUSINSIDE2","order":9,"parentId":0,"scrollX":832,"scrollY":640}
+{"id":1,"expanded":true,"name":"ALLEYRESCUE","order":2,"parentId":0,"scrollX":540.6666666666666,"scrollY":302},
+{"id":2,"expanded":true,"name":"ALLEYJARF","order":1,"parentId":0,"scrollX":540.6666666666666,"scrollY":322},
+{"id":3,"expanded":false,"name":"ANOMALOUSOUTSIDE","order":3,"parentId":0,"scrollX":540.6666666666666,"scrollY":322},
+{"id":4,"expanded":false,"name":"ANOMALOUSINSIDE","order":4,"parentId":0,"scrollX":540.6666666666666,"scrollY":302},
+{"id":5,"expanded":false,"name":"LITAPARTMENT","order":5,"parentId":0,"scrollX":540.6666666666666,"scrollY":322}
 ]
