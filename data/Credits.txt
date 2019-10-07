@@ -7,9 +7,8 @@ A Game for Ludum Dare 45
 Kyle "kfarwell" Farwell - Main Programmer, Map Design,
 Writer
 Matt "mtrose42" Rose - Main Writer, Animator
-Matthew "fireTwoOneNine" Petry - Programmer, Map Design
-DarkProds - Artist
-DICEBlOCK - Musician
+Matthew "fireTwoOneNine" Petry - Musician, Programmer,
+Map Design
 Phil "Squid" St. Antoine - Writer
 
 \c[1]Catachresis for LD45 is a condensed form of the
